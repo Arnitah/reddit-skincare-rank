@@ -1,0 +1,40 @@
+subreddit: SYNTHETIC-TEST
+title: SYNTHETIC TEST DATA - not real Reddit comments. Used only to test the pipeline.
+url:
+date: 2026-09-23
+---
+u/test_a
+Oily, acne-prone here. Paula's BHA cleared my closed comedones in about six weeks. Holy grail.
+---
+u/test_b
+The PC BHA made my cheeks sting and peel, had to stop. Relief Sun is perfect though, no white cast.
+---
+u/test_c
+Has anyone tried azelaic acid for dark marks? Thinking about it.
+---
+u/test_d
+Dry skin, 30s. CeraVe PM is fine but honestly boring. Cicaplast saved my barrier after tret.
+---
+u/test_e
+Tret purged me for a month and then my skin was the best it's ever been.
+---
+u/test_f
+BOJ sunscreen broke me out, tiny bumps along my jaw. Sad because I loved the texture.
+---
+u/test_g
+Sensitive skin. Azelaic acid 10% faded my post-acne marks, took about 3 months.
+---
+u/test_a
+Update: still using Paula's BHA, and adding azelaic acid helped my redness too.
+---
+u/test_h
+My sister swears by the snail essence but I haven't tried it.
+---
+u/test_d
+Beauty of Joseon sunscreen is the only one I repurchase. Wears great under makeup.
+---
+u/test_e
+The Ordinary niacinamide pilled under everything and broke me out.
+---
+u/test_g
+TO niacinamide did nothing for me, not bad, just nothing.

@@ -1,0 +1,26 @@
+{
+  "type": "object",
+  "properties": {
+    "mentions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "comment_index": {"type": "integer"},
+          "entity_raw": {"type": "string"},
+          "entity_type": {"type": "string", "enum": ["product", "ingredient"]},
+          "canonical_guess": {"type": "string"},
+          "category": {"type": "string", "enum": ["cleanser", "moisturizer", "sunscreen", "serum", "toner", "exfoliant", "treatment", "mask", "brand", "ingredient", "other"]},
+          "ingredient_links": {"type": "array", "items": {"type": "string"}},
+          "sentiment": {"type": "string", "enum": ["positive", "negative", "mixed", "neutral"]},
+          "experience": {"type": "string", "enum": ["firsthand", "secondhand", "question"]},
+          "reason": {"type": "string"},
+          "skin_context": {"type": "string"},
+          "reaction_flag": {"type": "string", "enum": ["breakout", "irritation", "purging", "none"]}
+        },
+        "required": ["comment_index", "entity_raw", "entity_type", "canonical_guess", "category", "ingredient_links", "sentiment", "experience", "reason", "skin_context", "reaction_flag"]
+      }
+    }
+  },
+  "required": ["mentions"]
+}
